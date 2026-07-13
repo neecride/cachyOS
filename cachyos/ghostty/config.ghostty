@@ -1,0 +1,11 @@
+# Background color
+# Options: Color: #RRGGBB
+background = #241f31
+
+# Window width in cells
+# Options: Number
+window-width = 120
+
+# Window height in cells
+# Options: Number
+window-height = 40
