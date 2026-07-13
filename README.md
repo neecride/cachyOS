@@ -35,6 +35,6 @@ window-height = 40
 
 `mkdir -p ~/.config/fastfetch`
 
-`touch ~/.config/festfetch/config`
+`touch ~/.config/fastfetch/config`
 
 <img height="400" alt="Capture d&#39;écran_20260713_215429" src="https://github.com/user-attachments/assets/35059a79-2f3c-4620-b093-74d2e22300d5" />
